@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=346000,RESOLUTION=426x240
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist___b346000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=596000,RESOLUTION=640x360
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist___b596000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=796000,RESOLUTION=854x480
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist___b796000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1096000,RESOLUTION=1280x720
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist___b1096000_slENG.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2596000,RESOLUTION=1920x1080
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist___b2596000_slENG.m3u8
