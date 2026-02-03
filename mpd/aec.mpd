@@ -11,7 +11,7 @@
     <Period>
         <AdaptationSet mimeType="video/mp4" codecs="avc1.4d401f" contentType="video" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
             <Representation id="fake_video" bandwidth="1000" width="640" height="360" frameRate="30">
-                <BaseURL>http://localhost/dummy.mp4</BaseURL>
+                <BaseURL>https://mt13.aa.astro.com.my/default_ott.mpd?PID=&amp;PAID=2400&amp;deviceIdType=1&amp;deviceId=1&amp;appId=astrogo.astro.com.my&amp;appName=astrogo&amp;devModel=PC&amp;playerWidth=1920&amp;playerHeight=1080&amp;sessionId=abr-linear-1&amp;optin=true&amp;hhid=1&amp;kvp=lang%7Echi&amp;kvp=genre%7EHD%2CCHINESE%2CALL&amp;daiEnabled=true</BaseURL>
                 <SegmentBase indexRangeExact="true" indexRange="0-1">
                     <Initialization range="0-0"/>
                 </SegmentBase>
