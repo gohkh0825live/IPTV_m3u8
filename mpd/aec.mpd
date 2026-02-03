@@ -3,8 +3,8 @@
      profiles="urn:mpeg:dash:profile:isoff-live:2011"
      type="dynamic"
      minBufferTime="PT1.5S">
-    
-    <Location>https://mt13.aa.astro.com.my/default_ott.mpd?PID=&amp;PAID=2400&amp;deviceIdType=%5BdevIdType%5D&amp;deviceId=1&amp;appId=astrogo.astro.com.my&amp;appName=%5BappName%5D&amp;devModel=%5BdevModel%5D&amp;playerWidth=%5BplayerWidth%5D&amp;playerHeight=%5BplayerHeight%5D&amp;sessionId=abr-linear-1&amp;optin=true&amp;hhid=1&amp;kvp=lang%7Echi&amp;kvp=genre%7EHD%2CCHINESE%2CALL&amp;daiEnabled=true</Location>
-    
+
+    <Location>https://mt13.aa.astro.com.my/default_ott.mpd?PID=&amp;PAID=2400&amp;deviceIdType=1&amp;deviceId=1&amp;appId=astrogo.astro.com.my&amp;appName=astrogo&amp;devModel=PC&amp;playerWidth=1920&amp;playerHeight=1080&amp;sessionId=abr-linear-1&amp;optin=true&amp;hhid=1&amp;kvp=lang%7Echi&amp;kvp=genre%7EHD%2CCHINESE%2CALL&amp;daiEnabled=true</Location>
+
     <Period></Period>
 </MPD>
