@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/北京新闻.png" group-title="北京",北京卫视
+javascript://https://js.gohkh9.qzz.io/beijing.js?id=bjws
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/BRTV文艺.png" group-title="北京",BRTV文艺
+javascript://https://js.gohkh9.qzz.io/beijing.js?id=bjwy
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/BRTV纪实科教.png" group-title="北京",BRTV纪实科教
+javascript://https://js.gohkh9.qzz.io/beijing.js?id=bjjskj
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/BRTV影视.png" group-title="北京",BRTV影视
+javascript://https://js.gohkh9.qzz.io/beijing.js?id=bjys
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/BRTV财经.png" group-title="北京",BRTV财经
+javascript://https://js.gohkh9.qzz.io/beijing.js?id=bjcj
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/BRTV生活.png" group-title="北京",BRTV生活
+javascript://https://js.gohkh9.qzz.io/beijing.js?id=bjsh
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/BRTV新闻.png" group-title="北京",BRTV新闻
+javascript://https://js.gohkh9.qzz.io/beijing.js?id=bjxw
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/卡酷少儿.png" group-title="北京",卡酷少儿
+javascript://https://js.gohkh9.qzz.io/beijing.js?id=bjkk
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/北京卫视4K.png" group-title="北京",北京卫视4K
+javascript://https://js.gohkh9.qzz.io/beijing.js?id=bjws4k
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/北京新闻.png" group-title="北京",BRTV体育休闲
+javascript://https://js.gohkh9.qzz.io/beijing.js?id=bjty
