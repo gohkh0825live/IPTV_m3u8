@@ -1,22 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:6
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/HLS/tv1-mp4a_128000_eng=4263252627.m3u8",GROUP-ID="audio-AACL-128",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/HLS/tv1-stpp_1000_chs=3819873583.m3u8",GROUP-ID="text",LANGUAGE="zh",NAME="Chinese, Simplified",DEFAULT=YES,AUTOSELECT=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/HLS/tv1-stpp_1000_eng=626833165.m3u8",GROUP-ID="text",LANGUAGE="en",NAME="English",AUTOSELECT=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/HLS/tv1-stpp_1000_msa=3521702810.m3u8",GROUP-ID="text",LANGUAGE="ms",NAME="Malay",AUTOSELECT=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/HLS/tv1-stpp_1000_tam=2179173713.m3u8",GROUP-ID="text",LANGUAGE="ta",NAME="Tamil",AUTOSELECT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=376507,AVERAGE-BANDWIDTH=342279,CODECS="avc1.640015,mp4a.40.2",RESOLUTION=480x270,FRAME-RATE=25.000,AUDIO="audio-AACL-128",SUBTITLES="text",CLOSED-CAPTIONS=NONE
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/HLS/tv1-avc1_200000=196187283.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=609707,AVERAGE-BANDWIDTH=554279,CODECS="avc1.64001E,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO="audio-AACL-128",SUBTITLES="text",CLOSED-CAPTIONS=NONE
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/HLS/tv1-avc1_400000=1122409136.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=842907,AVERAGE-BANDWIDTH=766279,CODECS="avc1.64001E,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO="audio-AACL-128",SUBTITLES="text",CLOSED-CAPTIONS=NONE
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/HLS/tv1-avc1_600000=1811798272.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1076107,AVERAGE-BANDWIDTH=978279,CODECS="avc1.64001F,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio-AACL-128",SUBTITLES="text",CLOSED-CAPTIONS=NONE
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/HLS/tv1-avc1_800000=369134550.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3058307,AVERAGE-BANDWIDTH=2780279,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="audio-AACL-128",SUBTITLES="text",CLOSED-CAPTIONS=NONE
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/HLS/tv1-avc1_2500000=2179564757.m3u8
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitle",NAME="Bahasa Melayu",DEFAULT="NO",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",AUTOSELECT=YES,FORCED=NO,LANGUAGE="ms",URI="https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_ms_vtt.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitle",NAME="English",DEFAULT="NO",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",AUTOSELECT=YES,FORCED=NO,LANGUAGE="en",URI="https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_en_vtt.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitle",NAME="普通话",DEFAULT="NO",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",AUTOSELECT=YES,FORCED=NO,LANGUAGE="zh",URI="https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_xm_vtt.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitle",NAME="தமிழ்",DEFAULT="NO",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",AUTOSELECT=YES,FORCED=NO,LANGUAGE="ta",URI="https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_ta_vtt.m3u8"
-#EXT-X-STREAM-INF:BANDWIDTH=5236451,RESOLUTION=1920x1080,SUBTITLES="subtitle"
-https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=3366451,RESOLUTION=1280x720,SUBTITLES="subtitle"
-https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_720p.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=1496451,RESOLUTION=854x480,SUBTITLES="subtitle"
-https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_480p.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=946451,RESOLUTION=640x360,SUBTITLES="subtitle"
-https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_360p.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=726451,RESOLUTION=426x240,SUBTITLES="subtitle"
-https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_240p.m3u8
-
